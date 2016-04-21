@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fucklibrary/Fucklibrary.iml" filepath="$PROJECT_DIR$/Fucklibrary/Fucklibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZSDNews.iml" filepath="$PROJECT_DIR$/ZSDNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nyapp/nyapp.iml" filepath="$PROJECT_DIR$/nyapp/nyapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/viewPagerIndicatorLibrary/viewPagerIndicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtilsLibrary/xUtilsLibrary.iml" filepath="$PROJECT_DIR$/xUtilsLibrary/xUtilsLibrary.iml" />
+    </modules>
+  </component>
+</project>

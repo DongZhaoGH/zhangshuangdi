@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        >
+        <com.sufutian.myzhbj.view.TopNewsViewpager
+            android:id="@+id/vp_tab_detail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+        </com.sufutian.myzhbj.view.TopNewsViewpager>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="#a000"
+            android:padding="5dp" >
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#fff"
+                android:textSize="16sp" />
+
+
+            <!-- 开源框架小圆点指示器-->
+            <com.viewpagerindicator.CirclePageIndicator
+                android:id="@+id/indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                app:fillColor="#f00"
+                app:pageColor="#cccccc"
+                app:radius="3dp"
+                app:strokeWidth="0dp" />
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

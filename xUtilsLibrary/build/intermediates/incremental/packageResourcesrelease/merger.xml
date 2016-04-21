@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Work\SelfViewSpace\Myzhbj\xUtilsLibrary\src\main\res"/><source path="C:\Work\SelfViewSpace\Myzhbj\xUtilsLibrary\build\generated\res\rs\release"/><source path="C:\Work\SelfViewSpace\Myzhbj\xUtilsLibrary\build\generated\res\resValues\release"/></dataSet><dataSet config="release"><source path="C:\Work\SelfViewSpace\Myzhbj\xUtilsLibrary\src\release\res"/></dataSet><mergedItems/></merger>
